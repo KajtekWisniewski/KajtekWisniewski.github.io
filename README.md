@@ -73,7 +73,7 @@ table, th, td {
 </head>
 <body>
 
-<h2>Add a border to a table:</h2>
+<h2>TABELA CSS (KASKADOWE (...) :</h2>
 
 <table>
   <tr>
