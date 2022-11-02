@@ -31,6 +31,7 @@ jakies cos[^1]
 
 [link do naglowka](#naglowek)
 
+<link href="table.css" rel="stylesheet" />
 
 
 <h2>TABELA CSS (KASKADOWE (...) :</h2>
