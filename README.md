@@ -64,3 +64,28 @@ else
 :blush: :grin:
 
 [link do naglowka](#naglowek)
+
+<style>
+table, th, td {
+  border: 1px solid;
+}
+</style>
+</head>
+<body>
+
+<h2>Add a border to a table:</h2>
+
+<table>
+  <tr>
+    <th>KOLUMNA 1</th>
+    <th>KOLUMNA 2</th>
+  </tr>
+  <tr>
+    <td>to </td>
+    <td>jest</td>
+  </tr>
+  <tr>
+    <td>tabela/td>
+    <td>CSS</td>
+  </tr>
+</table>
