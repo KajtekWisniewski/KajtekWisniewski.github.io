@@ -71,26 +71,26 @@ div.desc {
   <a target="_blank" href="gigachad.jpg">
     <img src=".picture/gigachad.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">ZDJECIE CSS 600x400</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="gigachad.jpg">
-    <img src=".picture/gigachad.jpg" alt="Forest" width="600" height="400">
+    <img src=".picture/gigachad.jpg" alt="Forest" width="500" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="gigachad.jpg">
-    <img src=".picture/gigachad.jpg" alt="Northern Lights" width="600" height="400">
+    <img src=".picture/gigachad.jpg" alt="Northern Lights" width="400" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="gigachad.jpg">
-    <img src=".picture/gigachad.jpg" alt="Mountains" width="600" height="400">
+    <img src=".picture/gigachad.jpg" alt="Mountains" width="200" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
