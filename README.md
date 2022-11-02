@@ -8,6 +8,13 @@ Paragraf 2
 
 Paragraf 3
 
+<div class="gallery">
+  <a target="_blank" href="gigachad.jpg">
+    <img src="https://i.kym-cdn.com/entries/icons/original/000/026/152/gigachad.jpg" alt="Cinque Terre" width="1068" height="601">
+  </a>
+  <div class="desc">ZDJECIE CSS 600x400</div>
+</div>
+
 ![.picture/gigachad.jpg](.picture/gigachad.jpg)
 
 |Nagłówek|Nagłówek2|Nagłówek3|
@@ -58,18 +65,4 @@ jakies cos[^1]
     <img src=".picture/gigachad.jpg" alt="Forest" width="500" height="400">
   </a>
   <div class="desc">CSS 500x400</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="gigachad.jpg">
-    <img src=".picture/gigachad.jpg" alt="Northern Lights" width="400" height="400">
-  </a>
-  <div class="desc">CSS 400x400</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="gigachad.jpg">
-    <img src=".picture/gigachad.jpg" alt="Mountains" width="200" height="400">
-  </a>
-  <div class="desc">CSS 200x400</div>
 </div>
