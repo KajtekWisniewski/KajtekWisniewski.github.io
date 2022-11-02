@@ -36,8 +36,7 @@ if temperatura > 20
 Tu zagniezdzam kod programu `print("stepik<3")`
 
 
-![KajtekWisniewski.github.io/.picture/gigachad.jpg]([KajtekWisniewski.github.io/.picture/
-/gigachad.jpg)
+![.picture/gigachad.jpg](.picture/gigachad.jpg)
 
 |Nagłówek|Nagłówek2|Nagłówek3|
 |:------:|:-------:|:-------:|
