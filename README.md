@@ -1,6 +1,6 @@
 # Kajtek Wisniewski. To moja stronka :)
 
-## Naglowek
+## STRONKA W TRAKCIE ZMIAN I PRACY css
 
 Paragraf 1
 
@@ -15,10 +15,6 @@ Paragraf 3
   <div class="desc">ZDJECIE CSS 600x400</div>
 </div>
 
-|Nagłówek|Nagłówek2|Nagłówek3|
-|:------:|:-------:|:-------:|
-|x       |y        |z        |
-|x2      |y2       |z2       |
 
 # Nagłówek {#naglowek}
 
