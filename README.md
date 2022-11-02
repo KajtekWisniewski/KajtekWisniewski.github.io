@@ -15,8 +15,6 @@ Paragraf 3
   <div class="desc">ZDJECIE CSS 600x400</div>
 </div>
 
-![.picture/gigachad.jpg](.picture/gigachad.jpg)
-
 |Nagłówek|Nagłówek2|Nagłówek3|
 |:------:|:-------:|:-------:|
 |x       |y        |z        |
@@ -30,8 +28,6 @@ jakies cos[^1]
 
 
 [link do naglowka](#naglowek)
-
-<link href="table.css" rel="stylesheet" />
 
 
 <h2>TABELA CSS (KASKADOWE (...) :</h2>
@@ -58,12 +54,33 @@ jakies cos[^1]
   <a target="_blank" href="gigachad.jpg">
     <img src="https://i.kym-cdn.com/entries/icons/original/000/026/152/gigachad.jpg" alt="GIGACHADifa" width="600" height="400">
   </a>
-  <div class="desc">ZDJECIE CSS 600x400</div>
+  <div class="desc">ZDJECIE CSS 200x200</div>
 </div>
+  
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid purple;
+}
 
-<div class="gallery">
-  <a target="_blank" href="gigachad.jpg">
-    <img src=".picture/gigachad.jpg" alt="MEGACHAD" width="500" height="400">
-  </a>
-  <div class="desc">CSS 500x400</div>
-</div>
+thead th:nth-child(1) {
+  width: 30%;
+}
+
+thead th:nth-child(2) {
+  width: 20%;
+}
+
+thead th:nth-child(3) {
+  width: 15%;
+}
+
+thead th:nth-child(4) {
+  width: 35%;
+}
+
+th,
+td {
+  padding: 20px;
+}
