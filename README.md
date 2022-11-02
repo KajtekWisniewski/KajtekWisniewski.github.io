@@ -65,13 +65,7 @@ else
 
 [link do naglowka](#naglowek)
 
-<style>
-table, th, td {
-  border: 1px solid;
-}
-</style>
-</head>
-<body>
+
 
 <h2>TABELA CSS (KASKADOWE (...) :</h2>
 
