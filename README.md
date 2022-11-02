@@ -10,7 +10,7 @@ Paragraf 3
 
 <div class="gallery">
   <a target="_blank" href="gigachad.jpg">
-    <img src="https://i.kym-cdn.com/entries/icons/original/000/026/152/gigachad.jpg" alt="Cinque Terre" width="1068" height="601">
+    <img src="https://i.kym-cdn.com/entries/icons/original/000/026/152/gigachad.jpg" alt="gigachaders" style="max-width: 100%;">
   </a>
   <div class="desc">ZDJECIE CSS 600x400</div>
 </div>
